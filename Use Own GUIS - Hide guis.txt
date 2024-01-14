@@ -1,0 +1,6 @@
+
+Instructions: Replace "ID" with any group ID that you are in.
+
+{
+	"DFIntCanHideGuiGroupId": "ID"
+}

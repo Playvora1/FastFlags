@@ -1,0 +1,5 @@
+{
+	"FFlagTopBarUseNewBadge": "True",
+	"FStringTopBarBadgeLearnMoreLink": "https://google.com",
+	"FStringVoiceBetaBadgeLearnMoreLink": "https://google.com"
+}
