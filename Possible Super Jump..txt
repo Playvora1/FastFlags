@@ -1,0 +1,3 @@
+{
+	"DFIntNewRunningBaseGravityReductionFactorHundredth": "1000"
+}

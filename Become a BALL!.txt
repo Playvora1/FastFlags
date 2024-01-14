@@ -1,0 +1,4 @@
+{
+	"DFIntDefaultBalanceD": "-17575",
+	"DFIntGeometricStiffnessAlpha": "-17575"
+}

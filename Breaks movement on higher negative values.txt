@@ -1,0 +1,3 @@
+{
+	"FIntPGSAngularDampingPermilPersecond": "-10000"
+}

@@ -1,0 +1,5 @@
+changes fade in ms!!
+
+{
+	"FIntRenderLocalLightFadeInMs": "0"
+}

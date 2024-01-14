@@ -1,0 +1,3 @@
+{
+	"FIntRenderShadowIntensity": "0"
+}

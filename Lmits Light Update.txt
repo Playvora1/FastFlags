@@ -1,0 +1,4 @@
+{
+	"FIntRenderLocalLightUpdatesMax": "8",
+	"FIntRenderLocalLightUpdatesMin": "6"
+}

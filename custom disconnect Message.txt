@@ -1,0 +1,4 @@
+{
+	"FFlagReconnectDisabled": "True",
+	"FStringReconnectDisabledReason": "You're stupid and I hate you"
+}

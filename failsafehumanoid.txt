@@ -1,0 +1,3 @@
+{
+	"FFlagFailsafeHumanoid_3": "True"
+}

@@ -1,0 +1,4 @@
+{
+	"DFIntVoiceChatRollOffMinDistance": "7",
+	"DFIntVoiceChatRollOffMaxDistance": "80"
+}

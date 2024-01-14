@@ -1,0 +1,10 @@
+{
+	"FFlagEnableAccessibilityCounters": "True",
+	"FFlagEnableAccessibilitySettingsAPIV2": "True",
+	"FFlagEnableAccessibilitySettingsEffectsInCoreScripts2": "True",
+	"FFlagEnableAccessibilitySettingsEffectsInExperienceChat": "True",
+	"FFlagEnableAccessibilitySettingsInExperienceMenu2": "True",
+	"FFlagEnableAccessibilitySettingsEffectsInLuaApp2": "True",
+	"FFlagEnableAccessibilitySettingsEffectsInModules": "True",
+	"FFlagEnableAccessibilitySettingsInAppShellSettings2": "True"
+}

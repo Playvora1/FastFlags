@@ -1,0 +1,7 @@
+{
+  "DFIntTaskSchedulerTargetFps": "99999",
+  "DFFlagDebugVisualizationImprovements": "True",
+  "DFFlagDebugVisualizeAllPropertyChanges": "True",
+  "DFFlagDebugVisualizerTrackRotationPredictions": "True",
+  "DFFlagDebugEnableInterpolationVisualizer": "True"
+}

@@ -1,0 +1,3 @@
+{
+	"DFIntSHCellMinSizeAsBitShift": "4"
+}

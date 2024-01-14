@@ -1,0 +1,3 @@
+{
+	"DFIntS2PhysicsSenderRate": "1"
+}

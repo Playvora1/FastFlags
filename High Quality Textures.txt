@@ -1,0 +1,4 @@
+{
+	"DFFlagTextureQualityOverrideEnabled": "True",
+	"DFIntTextureQualityOverride": "3"
+}

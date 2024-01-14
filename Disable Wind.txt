@@ -1,0 +1,4 @@
+{
+	"FFlagGlobalWindRendering": "False",
+	"FFlagGlobalWindActivated": "False"
+}

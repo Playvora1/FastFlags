@@ -1,0 +1,4 @@
+{
+	"FIntPGSPenetrationMarginMax": "2147483647",
+	"FIntPGSPenetrationMarginMin": "2147483647"
+}

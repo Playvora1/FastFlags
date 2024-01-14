@@ -1,0 +1,13 @@
+{
+  "DFIntTaskSchedulerTargetFps": "360",
+  "FFlagSimIslandizerManager": "false",
+  "FFlagDebugSimIntegrationStabilityTesting": "True",
+  "FFlagSimIslandizerManager": "false",
+  "FFlagSimIslandizerManager": "false",
+  "DFIntDebugSimPhysicsSteppingMethodOverride": 10000000,
+  "DFIntS2PhysicsSenderRate": "10000000",
+  "DFFlagDebugVisualizationImprovements": "True",
+  "DFFlagDebugVisualizeAllPropertyChanges": "True",
+  "DFFlagDebugVisualizerTrackRotationPredictions": "True",
+  "DFFlagDebugEnableInterpolationVisualizer": "True"
+}

@@ -1,0 +1,6 @@
+All type of wallhops, longjumps, headhitters and probably more stop working
+
+
+{
+	"DFFlagSimHumanoidPhysics": "True"
+}

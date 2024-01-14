@@ -1,0 +1,5 @@
+{
+	"DFFlagAssemblyExtentsExpansionStudHundredth": "-50",
+	"FIntPGSPenetrationMarginMax": "199999999",
+	"FIntPGSPenetrationMarginMin": "100000000"
+}

@@ -1,0 +1,3 @@
+{
+	"DFIntGeometricStiffnessAlpha": "-100000"
+}

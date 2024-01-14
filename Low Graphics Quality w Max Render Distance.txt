@@ -1,0 +1,6 @@
+Explanation: 1-6 Are low graphics, Above 6 are high graphics. Like the 1-21 graphics slider
+
+
+{
+	"DFIntDebugFRMQualityLevelOverride": "1"
+}
